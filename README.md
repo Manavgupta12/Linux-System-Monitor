@@ -64,9 +64,9 @@ Understanding Linux/Unix commands for system analysis
 ---
 
 ## 🧑‍💻 Author
-Manav Gupta
-Chandigarh University
-BCA — Linux Project
+Manav Gupta \n
+Chandigarh University \n
+BCA — Linux Project \n
 2025
 
 ---
