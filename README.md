@@ -64,14 +64,16 @@ Understanding Linux/Unix commands for system analysis
 ---
 
 ## 🧑‍💻 Author
-Manav Gupta \n
-Chandigarh University \n
-BCA — Linux Project \n
+
+Manav Gupta <br>
+Chandigarh University <br>
+BCA — Linux Project <br>
 2025
 
 ---
 
 ## 📜 License
+
 This project is open-source and free to use for educational purposes.
 
 ---
