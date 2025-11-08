@@ -1,0 +1,51 @@
+----------------------------------------
+        LINUX SYSTEM MONITOR
+----------------------------------------
+Date & Time: Sat Nov  8 17:05:36 IST 2025
+
+---- System Uptime ----
+17:05  up  8:31, 2 users, load averages: 2.39 3.11 2.76
+
+---- Memory Usage ----
+(free not found; using vm_stat on macOS)
+Mach Virtual Memory Statistics: (page size of 4096 bytes)
+Pages free:                                4618.
+Pages active:                            633599.
+Pages inactive:                          597540.
+Pages speculative:                         9588.
+Pages throttled:                              0.
+Pages wired down:                        575161.
+Pages purgeable:                          52025.
+"Translation faults":                  86420131.
+Pages copy-on-write:                    2186409.
+Pages zero filled:                     53470376.
+Pages reactivated:                      4708702.
+Pages purged:                           1750418.
+File-backed pages:                       464742.
+Anonymous pages:                         775985.
+Pages stored in compressor:             1076567.
+Pages occupied by compressor:            276407.
+Decompressions:                         3365032.
+Compressions:                           6715421.
+Pageins:                                2369649.
+Pageouts:                                105894.
+Swapins:                                 355916.
+Swapouts:                                506598.
+
+---- Disk Usage ----
+Filesystem        Size    Used   Avail Capacity iused ifree %iused  Mounted on
+/dev/disk1s4s1   233Gi    10Gi   157Gi     7%    427k  1.6G    0%   /
+devfs            187Ki   187Ki     0Bi   100%     648     0  100%   /dev
+/dev/disk1s2     233Gi   2.5Gi   157Gi     2%    1.9k  1.6G    0%   /System/Volumes/Preboot
+/dev/disk1s6     233Gi   2.0Gi   157Gi     2%       2  1.6G    0%   /System/Volumes/VM
+/dev/disk1s5     233Gi   3.7Mi   157Gi     1%      26  1.6G    0%   /System/Volumes/Update
+/dev/disk1s1     233Gi    60Gi   157Gi    28%    831k  1.6G    0%   /System/Volumes/Data
+map auto_home      0Bi     0Bi     0Bi   100%       0     0     -   /System/Volumes/Data/home
+
+---- Top 5 CPU Consuming Processes ----
+
+---- Logged In Users ----
+manavgupta       console       8 Nov 08:34 
+manavgupta       ttys000       8 Nov 16:59 
+
+---- System Health Report Complete ----
